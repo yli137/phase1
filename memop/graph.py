@@ -40,4 +40,5 @@ plt.legend(["memcpy", "manual copy", "manual copy with prefetch",
             "manual copy with prefetch and -O3"], loc="upper right")
 plt.xlabel("size (MB)")
 plt.ylabel("bandwidth (GB/s)")
+plt.title("Bandwidth vs. size")
 plt.show()
