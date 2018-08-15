@@ -37,8 +37,8 @@ void do_work(const int OUTPUTSIZE, const int INPUTSIZE, const int stride, const 
 		if(rep != 0)
 			avg += et - st;
 
-		//print_array(inbuf, INPUTSIZE, "input");
-		//print_array(obuf, OUTPUTSIZE, "output");
+		print_array(inbuf, INPUTSIZE, "input");
+		print_array(obuf, OUTPUTSIZE, "output");
 
 		double *flush_cache = (double*)malloc(sizeof(double) * CACHE_FLUSH_SIZE);
 		for( i = 0; i < CACHE_FLUSH_SIZE; i++)
@@ -50,8 +50,8 @@ void do_work(const int OUTPUTSIZE, const int INPUTSIZE, const int stride, const 
 	}
 
 	avg /= 20.;
-	printf("OUTPUTSIZE: %d INPUTSIZE: %d perCache: %d bandwidth: %.7f GBps\n", 
-		OUTPUTSIZE, INPUTSIZE, perCache, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000) );
+	printf("OUTPUTSIZE: %d INPUTSIZE: %d bandwidth: %.7f GBps\n", 
+		OUTPUTSIZE, INPUTSIZE, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000) );
 
 }
 
