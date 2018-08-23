@@ -32,8 +32,6 @@ void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 		j = 0; i = 0;
 		_mm_prefetch(&inbuf[j], _MM_HINT_T0);
 		for( ; i < OUTPUTSIZE && j < INPUTSIZE; i+=8){
-			if(i+8 >= OUTPUTSIZE || j+8 >= INPUTSIZE)
-				break;
 			_mm_prefetch(&inbuf[j+8], _MM_HINT_T0);
 			_memcpy(&packed[i], &inbuf[j], sizeof(double));
 			_memcpy(&packed[i+1], &inbuf[j+1], sizeof(double));
@@ -45,6 +43,14 @@ void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 			_memcpy(&packed[i+7], &inbuf[j+7], sizeof(double));
 			j+=8;
 		}
+		_memcpy(&packed[i], &inbuf[j], sizeof(double));
+		_memcpy(&packed[i+1], &inbuf[j+1], sizeof(double));
+		_memcpy(&packed[i+2], &inbuf[j+2], sizeof(double));
+		_memcpy(&packed[i+3], &inbuf[j+3], sizeof(double));
+		_memcpy(&packed[i+4], &inbuf[j+4], sizeof(double));
+		_memcpy(&packed[i+5], &inbuf[j+5], sizeof(double));
+		_memcpy(&packed[i+6], &inbuf[j+6], sizeof(double));
+		_memcpy(&packed[i+7], &inbuf[j+7], sizeof(double));
 		et = MPI_Wtime();
 
 		if(rep != 0)
@@ -55,9 +61,9 @@ void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 
 	avg/=20.;
 	printf("%d %d %.7f GBps\n",
-		OUTPUTSIZE, INPUTSIZE,
-		(double)(OUTPUTSIZE * sizeof(double))/(avg * 1000000000)
-	);
+			OUTPUTSIZE, INPUTSIZE,
+			(double)(OUTPUTSIZE * sizeof(double))/(avg * 1000000000)
+	      );
 }
 
 int main(int argc, char **argv){

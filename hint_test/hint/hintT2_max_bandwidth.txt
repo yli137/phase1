@@ -1,0 +1,760 @@
+1000 1000 13.6622633 GBps
+2000 2000 13.6240041 GBps
+3000 3000 14.0758268 GBps
+4000 4000 13.9308826 GBps
+5000 5000 13.5669149 GBps
+6000 6000 14.0781217 GBps
+7000 7000 14.1494385 GBps
+8000 8000 13.7384687 GBps
+9000 9000 13.7062033 GBps
+10000 10000 14.0179748 GBps
+11000 11000 14.3743819 GBps
+12000 12000 14.4405433 GBps
+13000 13000 14.3669340 GBps
+14000 14000 13.5302527 GBps
+15000 15000 14.3094079 GBps
+16000 16000 13.9454153 GBps
+17000 17000 11.6626624 GBps
+18000 18000 11.5783621 GBps
+19000 19000 10.3433727 GBps
+20000 20000 10.2624263 GBps
+21000 21000 10.2385335 GBps
+22000 22000 9.7789461 GBps
+23000 23000 10.1809059 GBps
+24000 24000 9.9232245 GBps
+25000 25000 9.7381198 GBps
+26000 26000 9.7753804 GBps
+27000 27000 9.9623671 GBps
+28000 28000 9.5486760 GBps
+29000 29000 9.7450912 GBps
+30000 30000 9.6060126 GBps
+31000 31000 9.6253876 GBps
+32000 32000 9.5434791 GBps
+33000 33000 9.8648024 GBps
+34000 34000 9.5190130 GBps
+35000 35000 9.3763253 GBps
+36000 36000 9.6801828 GBps
+37000 37000 9.6300864 GBps
+38000 38000 9.4002095 GBps
+39000 39000 9.4756798 GBps
+40000 40000 9.3382668 GBps
+41000 41000 9.2289485 GBps
+42000 42000 8.1977899 GBps
+43000 43000 9.6537253 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+44000 44000 9.6749546 GBps
+45000 45000 9.5629842 GBps
+46000 46000 9.4757079 GBps
+47000 47000 9.7726575 GBps
+48000 48000 9.3916675 GBps
+49000 49000 9.3871425 GBps
+50000 50000 9.6313003 GBps
+51000 51000 9.7937435 GBps
+52000 52000 9.6306664 GBps
+53000 53000 9.3866352 GBps
+54000 54000 9.6521874 GBps
+55000 55000 9.7102173 GBps
+56000 56000 8.9010033 GBps
+57000 57000 9.3996500 GBps
+58000 58000 9.5992335 GBps
+59000 59000 9.3141647 GBps
+60000 60000 9.6104088 GBps
+61000 61000 9.1207030 GBps
+62000 62000 9.3987548 GBps
+63000 63000 8.4058992 GBps
+64000 64000 9.0732518 GBps
+65000 65000 9.6306198 GBps
+66000 66000 9.2618734 GBps
+67000 67000 9.5502144 GBps
+68000 68000 9.7761214 GBps
+69000 69000 9.5059505 GBps
+70000 70000 9.6016607 GBps
+71000 71000 9.2366886 GBps
+72000 72000 8.9344862 GBps
+73000 73000 9.2899545 GBps
+74000 74000 9.8024864 GBps
+75000 75000 9.4027910 GBps
+76000 76000 9.1720973 GBps
+77000 77000 9.5335876 GBps
+78000 78000 9.6449451 GBps
+79000 79000 8.8294057 GBps
+80000 80000 9.3593456 GBps
+81000 81000 9.4682379 GBps
+82000 82000 9.4542953 GBps
+83000 83000 9.2930296 GBps
+84000 84000 9.2284942 GBps
+85000 85000 8.7091884 GBps
+86000 86000 9.3395333 GBps
+87000 87000 9.6277868 GBps
+88000 88000 9.1086526 GBps
+89000 89000 9.7561692 GBps
+90000 90000 9.6094935 GBps
+91000 91000 9.6365448 GBps
+92000 92000 9.7777283 GBps
+93000 93000 9.2464867 GBps
+94000 94000 9.5073786 GBps
+95000 95000 9.6200275 GBps
+96000 96000 9.2201254 GBps
+97000 97000 9.7226294 GBps
+98000 98000 9.5086899 GBps
+99000 99000 9.8173564 GBps
+100000 100000 9.6762861 GBps
+101000 101000 9.5036028 GBps
+102000 102000 9.5112095 GBps
+103000 103000 9.6370445 GBps
+104000 104000 9.5222730 GBps
+105000 105000 9.0297481 GBps
+106000 106000 8.8957279 GBps
+107000 107000 9.5076665 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+108000 108000 8.6559439 GBps
+109000 109000 9.9134163 GBps
+110000 110000 9.6682100 GBps
+111000 111000 9.3435864 GBps
+112000 112000 9.8693685 GBps
+113000 113000 9.4129260 GBps
+114000 114000 9.6268379 GBps
+115000 115000 9.7559007 GBps
+116000 116000 9.9175024 GBps
+117000 117000 9.7764002 GBps
+118000 118000 9.3009736 GBps
+119000 119000 9.2448635 GBps
+120000 120000 9.8877235 GBps
+121000 121000 9.5336254 GBps
+122000 122000 9.5591016 GBps
+123000 123000 8.8569890 GBps
+124000 124000 9.3097063 GBps
+125000 125000 9.5162275 GBps
+126000 126000 9.4575561 GBps
+127000 127000 7.9392982 GBps
+128000 128000 9.5373189 GBps
+129000 129000 9.3698287 GBps
+130000 130000 9.5721386 GBps
+131000 131000 9.2878697 GBps
+132000 132000 9.8708103 GBps
+133000 133000 9.7948514 GBps
+134000 134000 9.1439287 GBps
+135000 135000 9.2757364 GBps
+136000 136000 9.2447517 GBps
+137000 137000 9.4968411 GBps
+138000 138000 9.8793054 GBps
+139000 139000 9.4515875 GBps
+140000 140000 9.1732750 GBps
+141000 141000 9.6038621 GBps
+142000 142000 9.6938675 GBps
+143000 143000 9.2859252 GBps
+144000 144000 9.3979097 GBps
+145000 145000 9.5331623 GBps
+146000 146000 9.0358975 GBps
+147000 147000 9.2038330 GBps
+148000 148000 9.3325887 GBps
+149000 149000 9.5226113 GBps
+150000 150000 9.5460534 GBps
+151000 151000 9.5072559 GBps
+152000 152000 9.3453460 GBps
+153000 153000 9.5233126 GBps
+154000 154000 9.6330233 GBps
+155000 155000 9.5976127 GBps
+156000 156000 9.7928170 GBps
+157000 157000 9.4384677 GBps
+158000 158000 9.5879239 GBps
+159000 159000 9.6548216 GBps
+160000 160000 9.3478113 GBps
+161000 161000 9.7847476 GBps
+162000 162000 9.5426913 GBps
+163000 163000 9.4555513 GBps
+164000 164000 9.1562759 GBps
+165000 165000 9.5021211 GBps
+166000 166000 9.7950308 GBps
+167000 167000 9.0625670 GBps
+168000 168000 9.5769294 GBps
+169000 169000 9.6388500 GBps
+170000 170000 8.8064081 GBps
+171000 171000 9.2808815 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+172000 172000 9.5718348 GBps
+173000 173000 9.7356805 GBps
+174000 174000 9.3004766 GBps
+175000 175000 9.5224007 GBps
+176000 176000 9.3767496 GBps
+177000 177000 9.5156080 GBps
+178000 178000 9.8306731 GBps
+179000 179000 9.5008280 GBps
+180000 180000 9.3428324 GBps
+181000 181000 9.6817986 GBps
+182000 182000 9.3182660 GBps
+183000 183000 9.4765223 GBps
+184000 184000 10.0071624 GBps
+185000 185000 9.4577543 GBps
+186000 186000 9.4184905 GBps
+187000 187000 9.2844464 GBps
+188000 188000 9.3367839 GBps
+189000 189000 9.3726090 GBps
+190000 190000 8.9637786 GBps
+191000 191000 8.1507982 GBps
+192000 192000 9.3131828 GBps
+193000 193000 9.3043634 GBps
+194000 194000 9.2418252 GBps
+195000 195000 10.1125044 GBps
+196000 196000 9.7410873 GBps
+197000 197000 9.7588677 GBps
+198000 198000 9.4118433 GBps
+199000 199000 9.8233039 GBps
+200000 200000 7.9153711 GBps
+201000 201000 9.5958410 GBps
+202000 202000 9.4588195 GBps
+203000 203000 9.3138436 GBps
+204000 204000 9.5021885 GBps
+205000 205000 9.2726742 GBps
+206000 206000 9.1400778 GBps
+207000 207000 9.1762870 GBps
+208000 208000 9.0656918 GBps
+209000 209000 9.3377043 GBps
+210000 210000 9.5410529 GBps
+211000 211000 8.9902030 GBps
+212000 212000 8.9415563 GBps
+213000 213000 8.9157177 GBps
+214000 214000 9.7395969 GBps
+215000 215000 9.1558810 GBps
+216000 216000 9.5974970 GBps
+217000 217000 9.4873105 GBps
+218000 218000 10.0451313 GBps
+219000 219000 9.8262425 GBps
+220000 220000 9.6385301 GBps
+221000 221000 9.3422712 GBps
+222000 222000 9.8392315 GBps
+223000 223000 9.6853218 GBps
+224000 224000 9.1331764 GBps
+225000 225000 9.7471483 GBps
+226000 226000 9.7460918 GBps
+227000 227000 9.6618664 GBps
+228000 228000 9.1387644 GBps
+229000 229000 9.4831404 GBps
+230000 230000 9.5979003 GBps
+231000 231000 9.9529338 GBps
+232000 232000 9.2609574 GBps
+233000 233000 9.4747801 GBps
+234000 234000 8.6236585 GBps
+235000 235000 9.5009525 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+236000 236000 9.1458439 GBps
+237000 237000 9.9331608 GBps
+238000 238000 9.6767712 GBps
+239000 239000 9.7490636 GBps
+240000 240000 9.5441147 GBps
+241000 241000 9.6547116 GBps
+242000 242000 9.5460470 GBps
+243000 243000 9.2088554 GBps
+244000 244000 9.8113624 GBps
+245000 245000 9.4637552 GBps
+246000 246000 9.8270701 GBps
+247000 247000 9.7421219 GBps
+248000 248000 9.7787772 GBps
+249000 249000 9.9772530 GBps
+250000 250000 9.2494059 GBps
+251000 251000 9.7899309 GBps
+252000 252000 8.8090118 GBps
+253000 253000 9.2270691 GBps
+254000 254000 9.1392776 GBps
+255000 255000 8.0165487 GBps
+256000 256000 9.0255130 GBps
+257000 257000 9.7407078 GBps
+258000 258000 9.0334435 GBps
+259000 259000 9.5696679 GBps
+260000 260000 9.3980099 GBps
+261000 261000 9.8289349 GBps
+262000 262000 10.0916846 GBps
+263000 263000 9.5244954 GBps
+264000 264000 9.4305205 GBps
+265000 265000 9.7394940 GBps
+266000 266000 9.2284990 GBps
+267000 267000 9.3641418 GBps
+268000 268000 9.8318632 GBps
+269000 269000 9.3699536 GBps
+270000 270000 9.4441422 GBps
+271000 271000 9.7415745 GBps
+272000 272000 9.0449794 GBps
+273000 273000 9.7354010 GBps
+274000 274000 9.4356192 GBps
+275000 275000 9.2820952 GBps
+276000 276000 9.1672767 GBps
+277000 277000 8.9126756 GBps
+278000 278000 9.2647673 GBps
+279000 279000 9.0471602 GBps
+280000 280000 9.2793968 GBps
+281000 281000 9.9962399 GBps
+282000 282000 9.3449443 GBps
+283000 283000 9.9584729 GBps
+284000 284000 8.0934105 GBps
+285000 285000 9.5267364 GBps
+286000 286000 9.6692835 GBps
+287000 287000 9.5981847 GBps
+288000 288000 9.8674387 GBps
+289000 289000 9.4562279 GBps
+290000 290000 9.6657204 GBps
+291000 291000 9.8439599 GBps
+292000 292000 9.5751894 GBps
+293000 293000 9.4056660 GBps
+294000 294000 9.3311576 GBps
+295000 295000 9.4769962 GBps
+296000 296000 9.0656659 GBps
+297000 297000 9.1674997 GBps
+298000 298000 8.6074444 GBps
+299000 299000 9.6854887 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+300000 300000 9.6598311 GBps
+301000 301000 9.3962259 GBps
+302000 302000 9.9249569 GBps
+303000 303000 10.8951704 GBps
+304000 304000 10.9885343 GBps
+305000 305000 10.5873939 GBps
+306000 306000 11.0956907 GBps
+307000 307000 10.7627131 GBps
+308000 308000 10.9027924 GBps
+309000 309000 9.7346536 GBps
+310000 310000 10.7161294 GBps
+311000 311000 10.6313314 GBps
+312000 312000 10.6165665 GBps
+313000 313000 10.4253364 GBps
+314000 314000 10.2869515 GBps
+315000 315000 8.5238299 GBps
+316000 316000 10.0623805 GBps
+317000 317000 10.5224967 GBps
+318000 318000 10.2560729 GBps
+319000 319000 8.4832277 GBps
+320000 320000 9.7997484 GBps
+321000 321000 10.7358599 GBps
+322000 322000 10.3661264 GBps
+323000 323000 10.3778141 GBps
+324000 324000 10.7518850 GBps
+325000 325000 10.4054878 GBps
+326000 326000 8.0235525 GBps
+327000 327000 10.5917470 GBps
+328000 328000 10.4339741 GBps
+329000 329000 10.2349767 GBps
+330000 330000 10.2433672 GBps
+331000 331000 10.5336751 GBps
+332000 332000 10.4421850 GBps
+333000 333000 10.1239290 GBps
+334000 334000 10.2825746 GBps
+335000 335000 10.3290695 GBps
+336000 336000 9.6444958 GBps
+337000 337000 10.2163950 GBps
+338000 338000 9.6964899 GBps
+339000 339000 9.7669846 GBps
+340000 340000 9.1901577 GBps
+341000 341000 9.9371715 GBps
+342000 342000 10.0633836 GBps
+343000 343000 9.8402821 GBps
+344000 344000 10.5307948 GBps
+345000 345000 10.0640764 GBps
+346000 346000 9.7035067 GBps
+347000 347000 9.8188444 GBps
+348000 348000 9.9824713 GBps
+349000 349000 9.7434952 GBps
+350000 350000 10.4833656 GBps
+351000 351000 10.2219748 GBps
+352000 352000 9.9250825 GBps
+353000 353000 10.1264861 GBps
+354000 354000 10.6077210 GBps
+355000 355000 10.0793463 GBps
+356000 356000 10.0961010 GBps
+357000 357000 9.8185594 GBps
+358000 358000 9.8494096 GBps
+359000 359000 9.9107736 GBps
+360000 360000 9.4857128 GBps
+361000 361000 9.4465894 GBps
+362000 362000 8.5762314 GBps
+363000 363000 9.4653156 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+364000 364000 9.6673930 GBps
+365000 365000 9.8234836 GBps
+366000 366000 9.4821236 GBps
+367000 367000 9.8148123 GBps
+368000 368000 9.8004588 GBps
+369000 369000 9.5431291 GBps
+370000 370000 9.6986520 GBps
+371000 371000 9.8302313 GBps
+372000 372000 9.6638625 GBps
+373000 373000 9.6027014 GBps
+374000 374000 9.8816482 GBps
+375000 375000 9.6375263 GBps
+376000 376000 9.6809207 GBps
+377000 377000 9.3413164 GBps
+378000 378000 9.1452515 GBps
+379000 379000 9.1804591 GBps
+380000 380000 9.5483667 GBps
+381000 381000 9.4477646 GBps
+382000 382000 9.4916959 GBps
+383000 383000 8.4145136 GBps
+384000 384000 8.7300879 GBps
+385000 385000 7.7943554 GBps
+386000 386000 9.7984528 GBps
+387000 387000 9.4062944 GBps
+388000 388000 9.3027593 GBps
+389000 389000 9.4708943 GBps
+390000 390000 9.4657266 GBps
+391000 391000 9.7873582 GBps
+392000 392000 9.3673402 GBps
+393000 393000 9.7839610 GBps
+394000 394000 9.6361219 GBps
+395000 395000 9.3891466 GBps
+396000 396000 9.9715254 GBps
+397000 397000 9.5454864 GBps
+398000 398000 9.3532138 GBps
+399000 399000 9.4288166 GBps
+400000 400000 9.4674345 GBps
+401000 401000 9.2890032 GBps
+402000 402000 9.2744045 GBps
+403000 403000 9.1555432 GBps
+404000 404000 9.5082063 GBps
+405000 405000 9.1492573 GBps
+406000 406000 9.7931899 GBps
+407000 407000 9.3911108 GBps
+408000 408000 9.6504463 GBps
+409000 409000 9.8878400 GBps
+410000 410000 9.6051956 GBps
+411000 411000 9.6529930 GBps
+412000 412000 9.6487121 GBps
+413000 413000 9.8166580 GBps
+414000 414000 9.7425947 GBps
+415000 415000 9.5336631 GBps
+416000 416000 9.4618865 GBps
+417000 417000 9.7348596 GBps
+418000 418000 9.3414903 GBps
+419000 419000 9.5831543 GBps
+420000 420000 9.6543234 GBps
+421000 421000 9.2991676 GBps
+422000 422000 9.6557384 GBps
+423000 423000 9.1672473 GBps
+424000 424000 9.1820540 GBps
+425000 425000 9.2276499 GBps
+426000 426000 8.5237195 GBps
+427000 427000 9.4116610 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+428000 428000 9.6141103 GBps
+429000 429000 9.3626678 GBps
+430000 430000 9.6099183 GBps
+431000 431000 9.6567865 GBps
+432000 432000 9.2821583 GBps
+433000 433000 9.5689947 GBps
+434000 434000 10.3197115 GBps
+435000 435000 10.7385286 GBps
+436000 436000 10.2631581 GBps
+437000 437000 10.6150200 GBps
+438000 438000 10.3038898 GBps
+439000 439000 10.4919792 GBps
+440000 440000 10.3067670 GBps
+441000 441000 10.1015378 GBps
+442000 442000 10.0848342 GBps
+443000 443000 10.2967777 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+444000 444000 10.4820998 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+445000 445000 10.2679445 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+446000 446000 9.9511369 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+447000 447000 8.3892914 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+448000 448000 9.8127351 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+449000 449000 10.4532558 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+450000 450000 10.1408950 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+451000 451000 10.3357025 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+452000 452000 10.0254892 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+453000 453000 9.8228756 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+454000 454000 9.6434281 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+455000 455000 10.1370887 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+456000 456000 8.4808631 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+457000 457000 9.7379749 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+458000 458000 10.3979868 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+459000 459000 9.6214893 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+460000 460000 10.3028420 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+461000 461000 10.1191829 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+462000 462000 10.0343258 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+463000 463000 9.7741883 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+464000 464000 10.0222880 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+465000 465000 10.3250304 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+466000 466000 10.0613288 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+467000 467000 9.6933795 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+468000 468000 9.5211442 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+469000 469000 9.8698585 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+470000 470000 10.1220744 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+471000 471000 10.5077052 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+472000 472000 10.2040373 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+473000 473000 10.1170886 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+474000 474000 10.1560272 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+475000 475000 10.0207484 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+476000 476000 10.2416592 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+477000 477000 8.2319158 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+478000 478000 10.0388241 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+479000 479000 9.7094155 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+480000 480000 10.4091967 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+481000 481000 10.2546378 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+482000 482000 10.4135987 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+483000 483000 9.9627764 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+484000 484000 9.9855335 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+485000 485000 10.2689498 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+486000 486000 9.9580062 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+487000 487000 10.0211511 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+488000 488000 9.6046106 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+489000 489000 10.1527992 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+490000 490000 9.5005751 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+491000 491000 10.2550179 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+492000 492000 10.1449378 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+493000 493000 9.9688461 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+494000 494000 10.4563983 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+495000 495000 10.3426794 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+496000 496000 10.5369207 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+497000 497000 10.3516905 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+498000 498000 10.0842953 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+499000 499000 10.2070428 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+500000 500000 10.0092573 GBps
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+-------------------------------------------------------
