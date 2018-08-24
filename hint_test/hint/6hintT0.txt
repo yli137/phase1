@@ -6,7 +6,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-3000 24000 10.6408196 GBps
+3000 24000 10.0038058 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -15,7 +15,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-6000 48000 8.1005118 GBps
+6000 48000 8.1757640 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -24,7 +24,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-9000 72000 7.9410718 GBps
+9000 72000 7.8372138 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -33,7 +33,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-12000 96000 7.8307663 GBps
+12000 96000 7.8280679 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -42,7 +42,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-15000 120000 7.5657690 GBps
+15000 120000 7.8276280 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -51,7 +51,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-18000 144000 8.1144716 GBps
+18000 144000 8.4649125 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -60,7 +60,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-21000 168000 7.8744946 GBps
+21000 168000 7.2207584 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -69,7 +69,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-24000 192000 8.4688651 GBps
+24000 192000 8.6845784 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -78,7 +78,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-27000 216000 7.9919860 GBps
+27000 216000 8.5495932 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -87,7 +87,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-30000 240000 8.4785023 GBps
+30000 240000 7.1797983 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -96,7 +96,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-33000 264000 8.7154737 GBps
+33000 264000 7.2508740 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -105,7 +105,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-36000 288000 8.9145319 GBps
+36000 288000 8.2779258 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -114,7 +114,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-39000 312000 8.6338983 GBps
+39000 312000 6.6661251 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -123,7 +123,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-42000 336000 8.7941178 GBps
+42000 336000 6.6298751 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -132,7 +132,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-45000 360000 8.5068300 GBps
+45000 360000 7.0937324 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -141,7 +141,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-48000 384000 8.5141278 GBps
+48000 384000 8.4461910 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -150,7 +150,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-51000 408000 8.4281796 GBps
+51000 408000 8.7218309 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -159,7 +159,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-54000 432000 8.5157959 GBps
+54000 432000 8.6281381 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -168,7 +168,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-57000 456000 8.3889260 GBps
+57000 456000 8.7169264 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -177,7 +177,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-60000 480000 8.3130394 GBps
+60000 480000 8.5662916 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -186,7 +186,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-63000 504000 8.4076749 GBps
+63000 504000 8.2460608 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -195,7 +195,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-66000 528000 8.9537573 GBps
+66000 528000 9.0787932 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -204,7 +204,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-69000 552000 8.7830324 GBps
+69000 552000 8.3759710 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -213,7 +213,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-72000 576000 8.6472466 GBps
+72000 576000 8.5408131 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -222,7 +222,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-75000 600000 9.0230216 GBps
+75000 600000 7.0115581 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -231,7 +231,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-78000 624000 8.6859688 GBps
+78000 624000 8.6018614 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -240,7 +240,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-81000 648000 8.6102577 GBps
+81000 648000 8.3905654 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -249,7 +249,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-84000 672000 8.8902983 GBps
+84000 672000 6.7497736 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -258,7 +258,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-87000 696000 8.3419055 GBps
+87000 696000 8.9299128 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -267,7 +267,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-90000 720000 8.5826060 GBps
+90000 720000 6.8608849 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -276,7 +276,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-93000 744000 8.7295821 GBps
+93000 744000 8.9050290 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -285,7 +285,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-96000 768000 8.8821743 GBps
+96000 768000 8.1894492 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -294,7 +294,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-99000 792000 8.6409786 GBps
+99000 792000 8.0919680 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -303,7 +303,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-102000 816000 8.9763580 GBps
+102000 816000 8.6536535 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -312,7 +312,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-105000 840000 8.6636228 GBps
+105000 840000 8.7056282 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -321,7 +321,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-108000 864000 8.3393253 GBps
+108000 864000 6.6579751 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -330,7 +330,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-111000 888000 8.6289104 GBps
+111000 888000 8.8190471 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -339,7 +339,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-114000 912000 8.2765492 GBps
+114000 912000 8.7385201 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -348,7 +348,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-117000 936000 8.4052692 GBps
+117000 936000 6.7579270 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -357,7 +357,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-120000 960000 8.4591231 GBps
+120000 960000 8.6634330 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -366,7 +366,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-123000 984000 8.9202711 GBps
+123000 984000 8.4459416 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -375,7 +375,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-126000 1008000 8.6451115 GBps
+126000 1008000 8.3797168 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -384,7 +384,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-129000 1032000 8.7835367 GBps
+129000 1032000 6.5847779 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -393,7 +393,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-132000 1056000 8.9454237 GBps
+132000 1056000 6.9497789 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -402,7 +402,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-135000 1080000 8.8944595 GBps
+135000 1080000 8.2740173 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -411,7 +411,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-138000 1104000 8.9471605 GBps
+138000 1104000 9.1776216 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -420,7 +420,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-141000 1128000 8.7301856 GBps
+141000 1128000 8.7719018 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -429,7 +429,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-144000 1152000 8.5375200 GBps
+144000 1152000 8.7675661 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -438,7 +438,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-147000 1176000 9.0570691 GBps
+147000 1176000 8.9276771 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -447,7 +447,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-150000 1200000 8.3236560 GBps
+150000 1200000 7.9038586 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -456,7 +456,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-153000 1224000 8.9964199 GBps
+153000 1224000 6.4779894 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -465,7 +465,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-156000 1248000 8.3217734 GBps
+156000 1248000 6.7593559 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -474,7 +474,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-159000 1272000 8.6036599 GBps
+159000 1272000 9.0573839 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -483,7 +483,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-162000 1296000 9.0883329 GBps
+162000 1296000 9.1555648 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -492,7 +492,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-165000 1320000 9.0834269 GBps
+165000 1320000 9.0143464 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -501,7 +501,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-168000 1344000 8.9940036 GBps
+168000 1344000 8.8019301 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -510,7 +510,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-171000 1368000 8.7241280 GBps
+171000 1368000 9.0214528 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -519,7 +519,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-174000 1392000 9.0364413 GBps
+174000 1392000 6.7502690 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -528,7 +528,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-177000 1416000 8.4043266 GBps
+177000 1416000 9.0329363 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -537,7 +537,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-180000 1440000 8.9837367 GBps
+180000 1440000 6.7792423 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -546,7 +546,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-183000 1464000 8.7214818 GBps
+183000 1464000 6.6212937 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -555,7 +555,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-186000 1488000 8.9322698 GBps
+186000 1488000 6.5314352 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -564,7 +564,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-189000 1512000 8.8113686 GBps
+189000 1512000 8.8599812 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
@@ -573,317 +573,7 @@ a non-zero exit code. Per user-direction, the job has been aborted.
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
 -------------------------------------------------------
-192000 1536000 8.8249394 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-195000 1560000 9.1420543 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-198000 1584000 8.7923803 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-201000 1608000 8.6429636 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-204000 1632000 9.1727481 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-207000 1656000 8.7921014 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-210000 1680000 9.1830930 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-213000 1704000 8.8080491 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-216000 1728000 9.1135682 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-219000 1752000 9.2211954 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-222000 1776000 9.1292251 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-225000 1800000 8.8553344 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-228000 1824000 8.7104129 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-231000 1848000 8.6775729 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-234000 1872000 8.4821926 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-237000 1896000 8.1713470 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-240000 1920000 8.2035536 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-243000 1944000 8.6113944 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-246000 1968000 8.9874579 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-249000 1992000 8.2016534 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-252000 2016000 8.5026984 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-255000 2040000 8.3843307 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-258000 2064000 8.6241919 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-261000 2088000 8.3727288 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-264000 2112000 8.8574268 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-267000 2136000 8.6958188 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-270000 2160000 8.5993561 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-273000 2184000 8.2698775 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-276000 2208000 8.6227945 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-279000 2232000 7.9989915 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-282000 2256000 8.2125936 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-285000 2280000 8.2739999 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-288000 2304000 6.8602300 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-291000 2328000 9.7892296 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
-294000 2352000 8.5090057 GBps
--------------------------------------------------------
-Primary job  terminated normally, but 1 process returned
-a non-zero exit code. Per user-direction, the job has been aborted.
--------------------------------------------------------
+192000 1536000 8.7250733 GBps
 -------------------------------------------------------
 Primary job  terminated normally, but 1 process returned
 a non-zero exit code. Per user-direction, the job has been aborted.
