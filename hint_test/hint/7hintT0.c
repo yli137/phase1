@@ -32,7 +32,8 @@ void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 		j = 0; i = 0;
 		_mm_prefetch(&inbuf[j], _MM_HINT_T0);
 		for( ; i < OUTPUTSIZE && j < INPUTSIZE; i+=7){
-			_mm_prefetch(&inbuf[j+8], _MM_HINT_T0);
+			if( j+8 < INPUTSIZE )
+				_mm_prefetch(&inbuf[j+8], _MM_HINT_T0);
 			_memcpy(&packed[i], &inbuf[j], sizeof(double));
 			_memcpy(&packed[i+1], &inbuf[j+1], sizeof(double));
 			_memcpy(&packed[i+2], &inbuf[j+2], sizeof(double));
