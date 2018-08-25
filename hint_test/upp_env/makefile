@@ -1,0 +1,12 @@
+CC=mpicc
+
+all: upp_nohint upp_hint
+
+upp_hint:
+	$(CC) -o upp_hint -O3 upp_hint.c
+
+upp_nohint:
+	$(CC) -o upp_nohint -O3 upp_nohint.c
+
+clean:
+	rm upp_hint upp_nohint
