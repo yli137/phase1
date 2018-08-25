@@ -37,7 +37,6 @@ void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 			_memcpy(&packed[i], &inbuf[j], sizeof(double));
 			j+=8;
 		}
-		_memcpy(&packed[i], &inbuf[j], sizeof(double));
 		et = MPI_Wtime();
 
 		if(rep != 0)

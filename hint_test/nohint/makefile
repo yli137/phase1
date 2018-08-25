@@ -1,21 +1,6 @@
 CC=mpicc
 
-all: v1 nov1 t1 t2 1nohintT0 2nohintT0 3nohintT0 4nohintT0 5nohintT0 6nohintT0 7nohintT0 8nohintT0
-
-v1: hint.c
-	$(CC) -o v1 -O3 hint.c
-
-nov1: nohint.c
-	$(CC) -o nov1 -O3 nohint.c
-
-t1: hintt1.c
-	$(CC) -o t1 -O3 hintt1.c
-
-t2: hintt2.c
-	$(CC) -o t2 -O3 hintt2.c
-
-1nohintT0: 1hintT0.c
-	$(CC) -o 1nohintT0 -O3 1nohintT0.c
+all: 1nohintT0 2nohintT0 3nohintT0 4nohintT0 5nohintT0 6nohintT0 7nohintT0 8nohintT0
 
 1nohintT0: 1hintT0.c
 	$(CC) -o 1nohintT0 -O3 1hintT0.c
@@ -42,4 +27,4 @@ t2: hintt2.c
 	$(CC) -o 8nohintT0 -O3 8hintT0.c
 
 clean:
-	rm *.o
+	rm 1nohintT0 2nohintT0 3nohintT0 4nohintT0 5nohintT0 6nohintT0 7nohintT0 8nohintT0

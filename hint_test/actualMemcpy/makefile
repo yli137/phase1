@@ -27,4 +27,4 @@ all: 1nohintT0 2nohintT0 3nohintT0 4nohintT0 5nohintT0 6nohintT0 7nohintT0 8nohi
 	$(CC) -o 8nohintT0 -O3 8hintT0.c
 
 clean:
-	rm *.o
+	rm 1nohintT0 2nohintT0 3nohintT0 4nohintT0 5nohintT0 6nohintT0 7nohintT0 8nohintT0
