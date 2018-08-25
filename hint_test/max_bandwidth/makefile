@@ -27,4 +27,4 @@ max1: max1.c
 	$(CC) -o max1 -O3 max1.c
 
 clean: 
-	rm *.o
+	rm -f max8 max7 max6 max5 max4 max3 max2 max1
