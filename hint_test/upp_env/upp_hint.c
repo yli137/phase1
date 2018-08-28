@@ -3,44 +3,52 @@
 #include<stdlib.h>
 
 void print_r(const double *input, const int size, const char *name){
-	printf("%s\n", name);
+	printf("%s: ", name);
 	unsigned int i;
 	for(i = 0; i < size; i++)
 		printf("%.f ", input[i]);
 	printf("\n");
 }
 
-#define NPC 1
-#define stride 8
-void do_upp(const int OUTPUTSIZE, const int INPUTSIZE){
-	MPI_Datatype ddt;
-	MPI_Type_vector( OUTPUTSIZE, NPC, stride, MPI_DOUBLE, &ddt );
-	MPI_Type_commit(&ddt);
+void do_upp(const int OUTPUTSIZE, const int INPUTSIZE, const int NUM, const int stride){
+	double avg = 0, upavg = 0;
+	unsigned int rep = 0;
 
-	double *inbuf = (double*)malloc(sizeof(double) * INPUTSIZE);
-	double *packed = (double*)malloc(sizeof(double) * OUTPUTSIZE);
-	double *obuf = (double*)malloc(sizeof(double) * INPUTSIZE);
+	for( rep = 0; rep < 21; rep++){
+		MPI_Datatype ddt;
+		MPI_Type_vector( 1 , NUM, stride, MPI_DOUBLE, &ddt );
+		MPI_Type_commit(&ddt);
 
-	//initialize
-	unsigned int i;
-	for(i = 0; i < INPUTSIZE; i++)
-		inbuf[i] = (double)(rand() % 200);
-	for(i = 0; i < INPUTSIZE; i++)
-		obuf[i] = (double)(rand() % 200);
+		double *inbuf = (double*)malloc(sizeof(double) * INPUTSIZE);
+		double *packed = (double*)malloc(sizeof(double) * OUTPUTSIZE);
 
-	double st, et;
-	int position = 0;
-	MPI_Pack(inbuf, 1, ddt, packed, OUTPUTSIZE, &position, MPI_COMM_WORLD);
+		unsigned int i;
+		for(i = 0; i < INPUTSIZE; i++)
+			inbuf[i] = (double)(rand() % 200);
 
-	print_r(inbuf, INPUTSIZE, "inbuf");
-	print_r(packed, OUTPUTSIZE, "packed");
-	print_r(obuf, INPUTSIZE, "obuf");
-	
+		double st, et;
+		int position = 0;
 
-	MPI_Type_free(&ddt);
-	free(inbuf);
-	free(packed);
-	free(obuf);
+		st = MPI_Wtime();
+		MPI_Pack(inbuf, (int)(OUTPUTSIZE / NUM), ddt, packed, OUTPUTSIZE * sizeof(double), &position, MPI_COMM_WORLD);
+		et = MPI_Wtime();
+
+		if( rep != 0 ){
+			avg += et - st;
+		}
+
+		MPI_Type_free(&ddt);
+		free(inbuf);
+		free(packed);
+
+		if(rep == 2)
+			break;
+	}
+
+	avg /= 20.;
+	printf("OUTPUTSIZE: %d INPUTSIZE: %d #/line: %d stride: %d pack_bandwidth: %.7f GBps\n",
+		OUTPUTSIZE, INPUTSIZE, NUM, stride, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000.));
+
 }
 
 int main(int argc, char **argv){
@@ -55,7 +63,7 @@ int main(int argc, char **argv){
 		exit(0);
 	}
 
-	do_upp( atoi(argv[1]), atoi(argv[2]) );
+	do_upp( atoi(argv[1]), atoi(argv[2]), atoi(argv[3]), atoi(argv[4]) );
 
 	MPI_Finalize();
 	exit(0);
