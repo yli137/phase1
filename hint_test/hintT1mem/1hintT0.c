@@ -31,12 +31,16 @@ void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 		st = MPI_Wtime();
 		j = 0; i = 0;
 		_mm_prefetch(&inbuf[j], _MM_HINT_T1);
-		for( ; i < OUTPUTSIZE && j < INPUTSIZE; i++){
-			if( j+8 < INPUTSIZE )
+		_mm_prefetch(&packed[i], _MM_HINT_T1);
+		for( ; i < OUTPUTSIZE - 1 && j < INPUTSIZE; i++){
+			if( j+8 < INPUTSIZE){
 				_mm_prefetch(&inbuf[j+8], _MM_HINT_T1);
+				_mm_prefetch(&packed[i+1], _MM_HINT_T1);
+			}
 			memcpy(&packed[i], &inbuf[j], sizeof(double));
 			j+=8;
 		}
+		memcpy(&packed[i], &inbuf[j], sizeof(double));
 		et = MPI_Wtime();
 
 		if(rep != 0)
