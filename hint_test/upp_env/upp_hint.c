@@ -1,4 +1,5 @@
 #include<mpi.h>
+#include<math.h>
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -13,6 +14,8 @@ void print_r(const double *input, const int size, const char *name){
 void do_upp(const int OUTPUTSIZE, const int INPUTSIZE, const int NUM, const int stride){
 	double avg = 0, upavg = 0;
 	unsigned int rep = 0;
+	double time[20];
+	unsigned int counter = 0;
 
 	for( rep = 0; rep < 21; rep++){
 		MPI_Datatype ddt;
@@ -26,8 +29,8 @@ void do_upp(const int OUTPUTSIZE, const int INPUTSIZE, const int NUM, const int 
 		for(i = 0; i < INPUTSIZE; i++)
 			inbuf[i] = (double)(rand() % 200);
 
-		double st, et;
-		int position = 0;
+		double st, et, upst, upet;
+		int position = 0, upposition = 0;
 
 		st = MPI_Wtime();
 		MPI_Pack(inbuf, (int)(OUTPUTSIZE / NUM), ddt, packed, OUTPUTSIZE * sizeof(double), &position, MPI_COMM_WORLD);
@@ -35,20 +38,27 @@ void do_upp(const int OUTPUTSIZE, const int INPUTSIZE, const int NUM, const int 
 
 		if( rep != 0 ){
 			avg += et - st;
+			time[counter] = et - st;
+			counter++;
 		}
 
 		MPI_Type_free(&ddt);
 		free(inbuf);
 		free(packed);
-
-		if(rep == 2)
-			break;
 	}
 
 	avg /= 20.;
-	printf("OUTPUTSIZE: %d INPUTSIZE: %d #/line: %d stride: %d pack_bandwidth: %.7f GBps\n",
-		OUTPUTSIZE, INPUTSIZE, NUM, stride, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000.));
 
+	double std = 0;
+	for(rep = 0; rep < 20; rep++){
+		std += (time[rep] - avg) * (time[rep] - avg);
+	}
+	std /= 19.;
+	std = sqrt(std);
+
+	printf("OUTPUTSIZE: %d INPUTSIZE: %d #/line: %d stride: %d std: %.4f pack_bandwidth: %.7f GBps\n", 
+		OUTPUTSIZE, INPUTSIZE, NUM, stride, std, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000.)
+	 );
 }
 
 int main(int argc, char **argv){

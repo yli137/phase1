@@ -12,10 +12,6 @@ void print_r(const double *input, const int size, const char *name){
 	printf("\n");
 }
 
-inline void _memcpy(void *dest, const void *src, size_t n){
-	memcpy(dest, src, n);
-}
-
 void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 	unsigned int rep;
 	double avg = 0;
