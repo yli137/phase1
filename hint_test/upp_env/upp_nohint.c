@@ -17,35 +17,30 @@ void do_upp(const int OUTPUTSIZE, const int INPUTSIZE, const int NUM, const int 
 	double time[20];
 	unsigned int counter = 0;
 
-	for( rep = 0; rep < 21; rep++){
-		MPI_Datatype ddt;
-		MPI_Type_vector( 1 , NUM, stride, MPI_DOUBLE, &ddt );
-		MPI_Type_commit(&ddt);
+	MPI_Datatype ddt;
+	MPI_Type_vector( 1 , NUM, stride, MPI_DOUBLE, &ddt );
+	MPI_Type_commit(&ddt);
 
-		double *inbuf = (double*)malloc(sizeof(double) * INPUTSIZE);
-		double *packed = (double*)malloc(sizeof(double) * OUTPUTSIZE);
+	double *inbuf = (double*)malloc(sizeof(double) * INPUTSIZE);
+	double *packed = (double*)malloc(sizeof(double) * OUTPUTSIZE);
 
-		unsigned int i;
-		for(i = 0; i < INPUTSIZE; i++)
-			inbuf[i] = (double)(rand() % 200);
+	unsigned int i;
+	for(i = 0; i < INPUTSIZE; i++)
+		inbuf[i] = (double)(rand() % 200);
 
+	for(rep = 0; rep < 20; rep++){
 		double st, et, upst, upet;
 		int position = 0, upposition = 0;
-
 		st = MPI_Wtime();
 		MPI_Pack(inbuf, (int)(OUTPUTSIZE / NUM), ddt, packed, OUTPUTSIZE * sizeof(double), &position, MPI_COMM_WORLD);
 		et = MPI_Wtime();
-
-		if( rep != 0 ){
-			avg += et - st;
-			time[counter] = et - st;
-			counter++;
-		}
-
-		MPI_Type_free(&ddt);
-		free(inbuf);
-		free(packed);
+		avg += et - st;
+		time[rep] = et - st;
 	}
+
+	MPI_Type_free(&ddt);
+	free(inbuf);
+	free(packed);
 
 	avg /= 20.;
 
@@ -53,12 +48,12 @@ void do_upp(const int OUTPUTSIZE, const int INPUTSIZE, const int NUM, const int 
 	for(rep = 0; rep < 20; rep++){
 		std += (time[rep] - avg) * (time[rep] - avg);
 	}
-	std /= 19.;
+	std /= 20.;
 	std = sqrt(std);
 
 	printf("OUTPUTSIZE: %d INPUTSIZE: %d #/line: %d stride: %d std: %.4f pack_bandwidth: %.7f GBps\n", 
-		OUTPUTSIZE, INPUTSIZE, NUM, stride, std, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000.)
-	 );
+			OUTPUTSIZE, INPUTSIZE, NUM, stride, std, (double)(OUTPUTSIZE * sizeof(double)) / (avg * 1000000000.)
+	      );
 }
 
 int main(int argc, char **argv){

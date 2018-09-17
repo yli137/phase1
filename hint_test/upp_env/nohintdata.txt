@@ -1,112 +1,112 @@
-OUTPUTSIZE: 40000 INPUTSIZE: 320000 #/line: 1 stride: 8 pack_bandwidth: 18.1564478 GBps
-OUTPUTSIZE: 80000 INPUTSIZE: 640000 #/line: 1 stride: 8 pack_bandwidth: 18.7567491 GBps
-OUTPUTSIZE: 120000 INPUTSIZE: 960000 #/line: 1 stride: 8 pack_bandwidth: 13.2002116 GBps
-OUTPUTSIZE: 160000 INPUTSIZE: 1280000 #/line: 1 stride: 8 pack_bandwidth: 12.1668307 GBps
-OUTPUTSIZE: 200000 INPUTSIZE: 1600000 #/line: 1 stride: 8 pack_bandwidth: 11.4635069 GBps
-OUTPUTSIZE: 240000 INPUTSIZE: 1920000 #/line: 1 stride: 8 pack_bandwidth: 10.6847119 GBps
-OUTPUTSIZE: 280000 INPUTSIZE: 2240000 #/line: 1 stride: 8 pack_bandwidth: 10.2792093 GBps
-OUTPUTSIZE: 320000 INPUTSIZE: 2560000 #/line: 1 stride: 8 pack_bandwidth: 11.2949306 GBps
-OUTPUTSIZE: 360000 INPUTSIZE: 2880000 #/line: 1 stride: 8 pack_bandwidth: 10.5769353 GBps
-OUTPUTSIZE: 400000 INPUTSIZE: 3200000 #/line: 1 stride: 8 pack_bandwidth: 10.1817455 GBps
-OUTPUTSIZE: 440000 INPUTSIZE: 3520000 #/line: 1 stride: 8 pack_bandwidth: 9.6760587 GBps
-OUTPUTSIZE: 480000 INPUTSIZE: 3840000 #/line: 1 stride: 8 pack_bandwidth: 9.9792427 GBps
-OUTPUTSIZE: 520000 INPUTSIZE: 4160000 #/line: 1 stride: 8 pack_bandwidth: 9.9548822 GBps
-OUTPUTSIZE: 560000 INPUTSIZE: 4480000 #/line: 1 stride: 8 pack_bandwidth: 10.4357678 GBps
-OUTPUTSIZE: 80000 INPUTSIZE: 320000 #/line: 2 stride: 8 pack_bandwidth: 17.5807487 GBps
-OUTPUTSIZE: 160000 INPUTSIZE: 640000 #/line: 2 stride: 8 pack_bandwidth: 13.3615382 GBps
-OUTPUTSIZE: 240000 INPUTSIZE: 960000 #/line: 2 stride: 8 pack_bandwidth: 11.1869698 GBps
-OUTPUTSIZE: 320000 INPUTSIZE: 1280000 #/line: 2 stride: 8 pack_bandwidth: 10.6042955 GBps
-OUTPUTSIZE: 400000 INPUTSIZE: 1600000 #/line: 2 stride: 8 pack_bandwidth: 10.4099351 GBps
-OUTPUTSIZE: 480000 INPUTSIZE: 1920000 #/line: 2 stride: 8 pack_bandwidth: 10.4038161 GBps
-OUTPUTSIZE: 560000 INPUTSIZE: 2240000 #/line: 2 stride: 8 pack_bandwidth: 10.2024352 GBps
-OUTPUTSIZE: 640000 INPUTSIZE: 2560000 #/line: 2 stride: 8 pack_bandwidth: 10.2784311 GBps
-OUTPUTSIZE: 720000 INPUTSIZE: 2880000 #/line: 2 stride: 8 pack_bandwidth: 10.7050225 GBps
-OUTPUTSIZE: 800000 INPUTSIZE: 3200000 #/line: 2 stride: 8 pack_bandwidth: 9.8199548 GBps
-OUTPUTSIZE: 880000 INPUTSIZE: 3520000 #/line: 2 stride: 8 pack_bandwidth: 9.7236321 GBps
-OUTPUTSIZE: 960000 INPUTSIZE: 3840000 #/line: 2 stride: 8 pack_bandwidth: 9.8063583 GBps
-OUTPUTSIZE: 1040000 INPUTSIZE: 4160000 #/line: 2 stride: 8 pack_bandwidth: 9.7068756 GBps
-OUTPUTSIZE: 1120000 INPUTSIZE: 4480000 #/line: 2 stride: 8 pack_bandwidth: 10.0100319 GBps
-OUTPUTSIZE: 120000 INPUTSIZE: 320000 #/line: 3 stride: 8 pack_bandwidth: 15.7239014 GBps
-OUTPUTSIZE: 240000 INPUTSIZE: 640000 #/line: 3 stride: 8 pack_bandwidth: 12.3946946 GBps
-OUTPUTSIZE: 360000 INPUTSIZE: 960000 #/line: 3 stride: 8 pack_bandwidth: 10.6535149 GBps
-OUTPUTSIZE: 480000 INPUTSIZE: 1280000 #/line: 3 stride: 8 pack_bandwidth: 10.5751038 GBps
-OUTPUTSIZE: 600000 INPUTSIZE: 1600000 #/line: 3 stride: 8 pack_bandwidth: 10.4322845 GBps
-OUTPUTSIZE: 720000 INPUTSIZE: 1920000 #/line: 3 stride: 8 pack_bandwidth: 9.9322846 GBps
-OUTPUTSIZE: 840000 INPUTSIZE: 2240000 #/line: 3 stride: 8 pack_bandwidth: 9.8360374 GBps
-OUTPUTSIZE: 960000 INPUTSIZE: 2560000 #/line: 3 stride: 8 pack_bandwidth: 9.8940608 GBps
-OUTPUTSIZE: 1080000 INPUTSIZE: 2880000 #/line: 3 stride: 8 pack_bandwidth: 9.7074234 GBps
-OUTPUTSIZE: 1200000 INPUTSIZE: 3200000 #/line: 3 stride: 8 pack_bandwidth: 9.9909941 GBps
-OUTPUTSIZE: 1320000 INPUTSIZE: 3520000 #/line: 3 stride: 8 pack_bandwidth: 10.4396372 GBps
-OUTPUTSIZE: 1440000 INPUTSIZE: 3840000 #/line: 3 stride: 8 pack_bandwidth: 10.4356381 GBps
-OUTPUTSIZE: 1560000 INPUTSIZE: 4160000 #/line: 3 stride: 8 pack_bandwidth: 10.3556622 GBps
-OUTPUTSIZE: 1680000 INPUTSIZE: 4480000 #/line: 3 stride: 8 pack_bandwidth: 10.4863105 GBps
-OUTPUTSIZE: 160000 INPUTSIZE: 320000 #/line: 4 stride: 8 pack_bandwidth: 16.7094511 GBps
-OUTPUTSIZE: 320000 INPUTSIZE: 640000 #/line: 4 stride: 8 pack_bandwidth: 13.4138452 GBps
-OUTPUTSIZE: 480000 INPUTSIZE: 960000 #/line: 4 stride: 8 pack_bandwidth: 12.0568612 GBps
-OUTPUTSIZE: 640000 INPUTSIZE: 1280000 #/line: 4 stride: 8 pack_bandwidth: 11.1790698 GBps
-OUTPUTSIZE: 800000 INPUTSIZE: 1600000 #/line: 4 stride: 8 pack_bandwidth: 10.6417642 GBps
-OUTPUTSIZE: 960000 INPUTSIZE: 1920000 #/line: 4 stride: 8 pack_bandwidth: 10.5443905 GBps
-OUTPUTSIZE: 1120000 INPUTSIZE: 2240000 #/line: 4 stride: 8 pack_bandwidth: 10.3914178 GBps
-OUTPUTSIZE: 1280000 INPUTSIZE: 2560000 #/line: 4 stride: 8 pack_bandwidth: 10.3008922 GBps
-OUTPUTSIZE: 1440000 INPUTSIZE: 2880000 #/line: 4 stride: 8 pack_bandwidth: 10.4101815 GBps
-OUTPUTSIZE: 1600000 INPUTSIZE: 3200000 #/line: 4 stride: 8 pack_bandwidth: 10.4188207 GBps
-OUTPUTSIZE: 1760000 INPUTSIZE: 3520000 #/line: 4 stride: 8 pack_bandwidth: 10.4489295 GBps
-OUTPUTSIZE: 1920000 INPUTSIZE: 3840000 #/line: 4 stride: 8 pack_bandwidth: 10.4865829 GBps
-OUTPUTSIZE: 2080000 INPUTSIZE: 4160000 #/line: 4 stride: 8 pack_bandwidth: 10.2683840 GBps
-OUTPUTSIZE: 2240000 INPUTSIZE: 4480000 #/line: 4 stride: 8 pack_bandwidth: 10.6371123 GBps
-OUTPUTSIZE: 200000 INPUTSIZE: 320000 #/line: 5 stride: 8 pack_bandwidth: 15.0808091 GBps
-OUTPUTSIZE: 400000 INPUTSIZE: 640000 #/line: 5 stride: 8 pack_bandwidth: 11.3281900 GBps
-OUTPUTSIZE: 600000 INPUTSIZE: 960000 #/line: 5 stride: 8 pack_bandwidth: 11.4126087 GBps
-OUTPUTSIZE: 800000 INPUTSIZE: 1280000 #/line: 5 stride: 8 pack_bandwidth: 10.4374663 GBps
-OUTPUTSIZE: 1000000 INPUTSIZE: 1600000 #/line: 5 stride: 8 pack_bandwidth: 10.5064585 GBps
-OUTPUTSIZE: 1200000 INPUTSIZE: 1920000 #/line: 5 stride: 8 pack_bandwidth: 10.0146307 GBps
-OUTPUTSIZE: 1400000 INPUTSIZE: 2240000 #/line: 5 stride: 8 pack_bandwidth: 9.8557519 GBps
-OUTPUTSIZE: 1600000 INPUTSIZE: 2560000 #/line: 5 stride: 8 pack_bandwidth: 9.7283021 GBps
-OUTPUTSIZE: 1800000 INPUTSIZE: 2880000 #/line: 5 stride: 8 pack_bandwidth: 9.3338890 GBps
-OUTPUTSIZE: 2000000 INPUTSIZE: 3200000 #/line: 5 stride: 8 pack_bandwidth: 9.7493634 GBps
-OUTPUTSIZE: 2200000 INPUTSIZE: 3520000 #/line: 5 stride: 8 pack_bandwidth: 9.9195385 GBps
-OUTPUTSIZE: 2400000 INPUTSIZE: 3840000 #/line: 5 stride: 8 pack_bandwidth: 10.4282033 GBps
-OUTPUTSIZE: 2600000 INPUTSIZE: 4160000 #/line: 5 stride: 8 pack_bandwidth: 10.3305174 GBps
-OUTPUTSIZE: 2800000 INPUTSIZE: 4480000 #/line: 5 stride: 8 pack_bandwidth: 10.5466329 GBps
-OUTPUTSIZE: 240000 INPUTSIZE: 320000 #/line: 6 stride: 8 pack_bandwidth: 14.0414716 GBps
-OUTPUTSIZE: 480000 INPUTSIZE: 640000 #/line: 6 stride: 8 pack_bandwidth: 11.0192319 GBps
-OUTPUTSIZE: 720000 INPUTSIZE: 960000 #/line: 6 stride: 8 pack_bandwidth: 12.4123912 GBps
-OUTPUTSIZE: 960000 INPUTSIZE: 1280000 #/line: 6 stride: 8 pack_bandwidth: 10.3187693 GBps
-OUTPUTSIZE: 1200000 INPUTSIZE: 1600000 #/line: 6 stride: 8 pack_bandwidth: 10.1050008 GBps
-OUTPUTSIZE: 1440000 INPUTSIZE: 1920000 #/line: 6 stride: 8 pack_bandwidth: 10.2691598 GBps
-OUTPUTSIZE: 1680000 INPUTSIZE: 2240000 #/line: 6 stride: 8 pack_bandwidth: 9.9764074 GBps
-OUTPUTSIZE: 1920000 INPUTSIZE: 2560000 #/line: 6 stride: 8 pack_bandwidth: 9.8969005 GBps
-OUTPUTSIZE: 2160000 INPUTSIZE: 2880000 #/line: 6 stride: 8 pack_bandwidth: 10.3700416 GBps
-OUTPUTSIZE: 2400000 INPUTSIZE: 3200000 #/line: 6 stride: 8 pack_bandwidth: 10.1813984 GBps
-OUTPUTSIZE: 2640000 INPUTSIZE: 3520000 #/line: 6 stride: 8 pack_bandwidth: 9.6574961 GBps
-OUTPUTSIZE: 2880000 INPUTSIZE: 3840000 #/line: 6 stride: 8 pack_bandwidth: 10.4923501 GBps
-OUTPUTSIZE: 3120000 INPUTSIZE: 4160000 #/line: 6 stride: 8 pack_bandwidth: 9.6965789 GBps
-OUTPUTSIZE: 3360000 INPUTSIZE: 4480000 #/line: 6 stride: 8 pack_bandwidth: 10.0069498 GBps
-OUTPUTSIZE: 280000 INPUTSIZE: 320000 #/line: 7 stride: 8 pack_bandwidth: 12.8164708 GBps
-OUTPUTSIZE: 560000 INPUTSIZE: 640000 #/line: 7 stride: 8 pack_bandwidth: 11.4493189 GBps
-OUTPUTSIZE: 840000 INPUTSIZE: 960000 #/line: 7 stride: 8 pack_bandwidth: 10.7141276 GBps
-OUTPUTSIZE: 1120000 INPUTSIZE: 1280000 #/line: 7 stride: 8 pack_bandwidth: 10.1143777 GBps
-OUTPUTSIZE: 1400000 INPUTSIZE: 1600000 #/line: 7 stride: 8 pack_bandwidth: 10.2304309 GBps
-OUTPUTSIZE: 1680000 INPUTSIZE: 1920000 #/line: 7 stride: 8 pack_bandwidth: 10.2495902 GBps
-OUTPUTSIZE: 1960000 INPUTSIZE: 2240000 #/line: 7 stride: 8 pack_bandwidth: 10.0664478 GBps
-OUTPUTSIZE: 2240000 INPUTSIZE: 2560000 #/line: 7 stride: 8 pack_bandwidth: 9.9630973 GBps
-OUTPUTSIZE: 2520000 INPUTSIZE: 2880000 #/line: 7 stride: 8 pack_bandwidth: 9.9373422 GBps
-OUTPUTSIZE: 2800000 INPUTSIZE: 3200000 #/line: 7 stride: 8 pack_bandwidth: 10.0981406 GBps
-OUTPUTSIZE: 3080000 INPUTSIZE: 3520000 #/line: 7 stride: 8 pack_bandwidth: 10.1071336 GBps
-OUTPUTSIZE: 3360000 INPUTSIZE: 3840000 #/line: 7 stride: 8 pack_bandwidth: 9.9861390 GBps
-OUTPUTSIZE: 3640000 INPUTSIZE: 4160000 #/line: 7 stride: 8 pack_bandwidth: 10.9351456 GBps
-OUTPUTSIZE: 3920000 INPUTSIZE: 4480000 #/line: 7 stride: 8 pack_bandwidth: 10.0778930 GBps
-OUTPUTSIZE: 320000 INPUTSIZE: 320000 #/line: 8 stride: 8 pack_bandwidth: 8.9826376 GBps
-OUTPUTSIZE: 640000 INPUTSIZE: 640000 #/line: 8 stride: 8 pack_bandwidth: 7.6389207 GBps
-OUTPUTSIZE: 960000 INPUTSIZE: 960000 #/line: 8 stride: 8 pack_bandwidth: 7.0357066 GBps
-OUTPUTSIZE: 1280000 INPUTSIZE: 1280000 #/line: 8 stride: 8 pack_bandwidth: 7.1989622 GBps
-OUTPUTSIZE: 1600000 INPUTSIZE: 1600000 #/line: 8 stride: 8 pack_bandwidth: 7.0940482 GBps
-OUTPUTSIZE: 1920000 INPUTSIZE: 1920000 #/line: 8 stride: 8 pack_bandwidth: 6.9176186 GBps
-OUTPUTSIZE: 2240000 INPUTSIZE: 2240000 #/line: 8 stride: 8 pack_bandwidth: 7.0413055 GBps
-OUTPUTSIZE: 2560000 INPUTSIZE: 2560000 #/line: 8 stride: 8 pack_bandwidth: 6.9755290 GBps
-OUTPUTSIZE: 2880000 INPUTSIZE: 2880000 #/line: 8 stride: 8 pack_bandwidth: 7.5545010 GBps
-OUTPUTSIZE: 3200000 INPUTSIZE: 3200000 #/line: 8 stride: 8 pack_bandwidth: 6.9937811 GBps
-OUTPUTSIZE: 3520000 INPUTSIZE: 3520000 #/line: 8 stride: 8 pack_bandwidth: 6.9435088 GBps
-OUTPUTSIZE: 3840000 INPUTSIZE: 3840000 #/line: 8 stride: 8 pack_bandwidth: 6.9207835 GBps
-OUTPUTSIZE: 4160000 INPUTSIZE: 4160000 #/line: 8 stride: 8 pack_bandwidth: 6.9162279 GBps
-OUTPUTSIZE: 4480000 INPUTSIZE: 4480000 #/line: 8 stride: 8 pack_bandwidth: 6.7952052 GBps
+OUTPUTSIZE: 40000 INPUTSIZE: 320000 #/line: 1 stride: 8 std: 0.0000 pack_bandwidth: 8.7549880 GBps
+OUTPUTSIZE: 80000 INPUTSIZE: 640000 #/line: 1 stride: 8 std: 0.0001 pack_bandwidth: 10.4883847 GBps
+OUTPUTSIZE: 120000 INPUTSIZE: 960000 #/line: 1 stride: 8 std: 0.0001 pack_bandwidth: 10.4261330 GBps
+OUTPUTSIZE: 160000 INPUTSIZE: 1280000 #/line: 1 stride: 8 std: 0.0001 pack_bandwidth: 10.4932093 GBps
+OUTPUTSIZE: 200000 INPUTSIZE: 1600000 #/line: 1 stride: 8 std: 0.0002 pack_bandwidth: 10.5344297 GBps
+OUTPUTSIZE: 240000 INPUTSIZE: 1920000 #/line: 1 stride: 8 std: 0.0002 pack_bandwidth: 10.5521889 GBps
+OUTPUTSIZE: 280000 INPUTSIZE: 2240000 #/line: 1 stride: 8 std: 0.0003 pack_bandwidth: 10.5829124 GBps
+OUTPUTSIZE: 320000 INPUTSIZE: 2560000 #/line: 1 stride: 8 std: 0.0003 pack_bandwidth: 10.5856628 GBps
+OUTPUTSIZE: 360000 INPUTSIZE: 2880000 #/line: 1 stride: 8 std: 0.0003 pack_bandwidth: 10.9339986 GBps
+OUTPUTSIZE: 400000 INPUTSIZE: 3200000 #/line: 1 stride: 8 std: 0.0004 pack_bandwidth: 10.5694547 GBps
+OUTPUTSIZE: 440000 INPUTSIZE: 3520000 #/line: 1 stride: 8 std: 0.0003 pack_bandwidth: 11.2836983 GBps
+OUTPUTSIZE: 480000 INPUTSIZE: 3840000 #/line: 1 stride: 8 std: 0.0003 pack_bandwidth: 11.2180320 GBps
+OUTPUTSIZE: 520000 INPUTSIZE: 4160000 #/line: 1 stride: 8 std: 0.0004 pack_bandwidth: 11.1130846 GBps
+OUTPUTSIZE: 560000 INPUTSIZE: 4480000 #/line: 1 stride: 8 std: 0.0004 pack_bandwidth: 11.1372337 GBps
+OUTPUTSIZE: 80000 INPUTSIZE: 320000 #/line: 2 stride: 8 std: 0.0001 pack_bandwidth: 10.4538812 GBps
+OUTPUTSIZE: 160000 INPUTSIZE: 640000 #/line: 2 stride: 8 std: 0.0001 pack_bandwidth: 10.5163530 GBps
+OUTPUTSIZE: 240000 INPUTSIZE: 960000 #/line: 2 stride: 8 std: 0.0002 pack_bandwidth: 10.5767237 GBps
+OUTPUTSIZE: 320000 INPUTSIZE: 1280000 #/line: 2 stride: 8 std: 0.0002 pack_bandwidth: 11.7734269 GBps
+OUTPUTSIZE: 400000 INPUTSIZE: 1600000 #/line: 2 stride: 8 std: 0.0004 pack_bandwidth: 10.6346987 GBps
+OUTPUTSIZE: 480000 INPUTSIZE: 1920000 #/line: 2 stride: 8 std: 0.0003 pack_bandwidth: 11.3885277 GBps
+OUTPUTSIZE: 560000 INPUTSIZE: 2240000 #/line: 2 stride: 8 std: 0.0004 pack_bandwidth: 11.2737691 GBps
+OUTPUTSIZE: 640000 INPUTSIZE: 2560000 #/line: 2 stride: 8 std: 0.0004 pack_bandwidth: 11.7681546 GBps
+OUTPUTSIZE: 720000 INPUTSIZE: 2880000 #/line: 2 stride: 8 std: 0.0004 pack_bandwidth: 11.6217245 GBps
+OUTPUTSIZE: 800000 INPUTSIZE: 3200000 #/line: 2 stride: 8 std: 0.0005 pack_bandwidth: 11.4511315 GBps
+OUTPUTSIZE: 880000 INPUTSIZE: 3520000 #/line: 2 stride: 8 std: 0.0006 pack_bandwidth: 11.3379265 GBps
+OUTPUTSIZE: 960000 INPUTSIZE: 3840000 #/line: 2 stride: 8 std: 0.0006 pack_bandwidth: 11.3643094 GBps
+OUTPUTSIZE: 1040000 INPUTSIZE: 4160000 #/line: 2 stride: 8 std: 0.0007 pack_bandwidth: 11.5229548 GBps
+OUTPUTSIZE: 1120000 INPUTSIZE: 4480000 #/line: 2 stride: 8 std: 0.0007 pack_bandwidth: 11.4178223 GBps
+OUTPUTSIZE: 120000 INPUTSIZE: 320000 #/line: 3 stride: 8 std: 0.0001 pack_bandwidth: 10.4440757 GBps
+OUTPUTSIZE: 240000 INPUTSIZE: 640000 #/line: 3 stride: 8 std: 0.0002 pack_bandwidth: 10.5928942 GBps
+OUTPUTSIZE: 360000 INPUTSIZE: 960000 #/line: 3 stride: 8 std: 0.0003 pack_bandwidth: 10.6071801 GBps
+OUTPUTSIZE: 480000 INPUTSIZE: 1280000 #/line: 3 stride: 8 std: 0.0003 pack_bandwidth: 11.3802246 GBps
+OUTPUTSIZE: 600000 INPUTSIZE: 1600000 #/line: 3 stride: 8 std: 0.0004 pack_bandwidth: 11.2568430 GBps
+OUTPUTSIZE: 720000 INPUTSIZE: 1920000 #/line: 3 stride: 8 std: 0.0004 pack_bandwidth: 11.7034397 GBps
+OUTPUTSIZE: 840000 INPUTSIZE: 2240000 #/line: 3 stride: 8 std: 0.0005 pack_bandwidth: 11.5395251 GBps
+OUTPUTSIZE: 960000 INPUTSIZE: 2560000 #/line: 3 stride: 8 std: 0.0005 pack_bandwidth: 11.8416064 GBps
+OUTPUTSIZE: 1080000 INPUTSIZE: 2880000 #/line: 3 stride: 8 std: 0.0006 pack_bandwidth: 12.0033842 GBps
+OUTPUTSIZE: 1200000 INPUTSIZE: 3200000 #/line: 3 stride: 8 std: 0.0008 pack_bandwidth: 11.4924731 GBps
+OUTPUTSIZE: 1320000 INPUTSIZE: 3520000 #/line: 3 stride: 8 std: 0.0008 pack_bandwidth: 11.6303982 GBps
+OUTPUTSIZE: 1440000 INPUTSIZE: 3840000 #/line: 3 stride: 8 std: 0.0008 pack_bandwidth: 11.7669145 GBps
+OUTPUTSIZE: 1560000 INPUTSIZE: 4160000 #/line: 3 stride: 8 std: 0.0009 pack_bandwidth: 11.6225035 GBps
+OUTPUTSIZE: 1680000 INPUTSIZE: 4480000 #/line: 3 stride: 8 std: 0.0011 pack_bandwidth: 11.5111265 GBps
+OUTPUTSIZE: 160000 INPUTSIZE: 320000 #/line: 4 stride: 8 std: 0.0001 pack_bandwidth: 10.5084691 GBps
+OUTPUTSIZE: 320000 INPUTSIZE: 640000 #/line: 4 stride: 8 std: 0.0003 pack_bandwidth: 10.6176093 GBps
+OUTPUTSIZE: 480000 INPUTSIZE: 960000 #/line: 4 stride: 8 std: 0.0003 pack_bandwidth: 11.4000837 GBps
+OUTPUTSIZE: 640000 INPUTSIZE: 1280000 #/line: 4 stride: 8 std: 0.0004 pack_bandwidth: 11.8412417 GBps
+OUTPUTSIZE: 800000 INPUTSIZE: 1600000 #/line: 4 stride: 8 std: 0.0005 pack_bandwidth: 11.5963186 GBps
+OUTPUTSIZE: 960000 INPUTSIZE: 1920000 #/line: 4 stride: 8 std: 0.0006 pack_bandwidth: 11.1982351 GBps
+OUTPUTSIZE: 1120000 INPUTSIZE: 2240000 #/line: 4 stride: 8 std: 0.0007 pack_bandwidth: 11.6716717 GBps
+OUTPUTSIZE: 1280000 INPUTSIZE: 2560000 #/line: 4 stride: 8 std: 0.0007 pack_bandwidth: 11.8438393 GBps
+OUTPUTSIZE: 1440000 INPUTSIZE: 2880000 #/line: 4 stride: 8 std: 0.0008 pack_bandwidth: 11.9464561 GBps
+OUTPUTSIZE: 1600000 INPUTSIZE: 3200000 #/line: 4 stride: 8 std: 0.0009 pack_bandwidth: 11.7512349 GBps
+OUTPUTSIZE: 1760000 INPUTSIZE: 3520000 #/line: 4 stride: 8 std: 0.0010 pack_bandwidth: 11.7761972 GBps
+OUTPUTSIZE: 1920000 INPUTSIZE: 3840000 #/line: 4 stride: 8 std: 0.0011 pack_bandwidth: 11.6490636 GBps
+OUTPUTSIZE: 2080000 INPUTSIZE: 4160000 #/line: 4 stride: 8 std: 0.0012 pack_bandwidth: 11.6687363 GBps
+OUTPUTSIZE: 2240000 INPUTSIZE: 4480000 #/line: 4 stride: 8 std: 0.0014 pack_bandwidth: 11.5768232 GBps
+OUTPUTSIZE: 200000 INPUTSIZE: 320000 #/line: 5 stride: 8 std: 0.0002 pack_bandwidth: 10.5430926 GBps
+OUTPUTSIZE: 400000 INPUTSIZE: 640000 #/line: 5 stride: 8 std: 0.0004 pack_bandwidth: 10.6136465 GBps
+OUTPUTSIZE: 600000 INPUTSIZE: 960000 #/line: 5 stride: 8 std: 0.0004 pack_bandwidth: 11.2416140 GBps
+OUTPUTSIZE: 800000 INPUTSIZE: 1280000 #/line: 5 stride: 8 std: 0.0005 pack_bandwidth: 11.5933723 GBps
+OUTPUTSIZE: 1000000 INPUTSIZE: 1600000 #/line: 5 stride: 8 std: 0.0007 pack_bandwidth: 11.3962172 GBps
+OUTPUTSIZE: 1200000 INPUTSIZE: 1920000 #/line: 5 stride: 8 std: 0.0007 pack_bandwidth: 11.4225297 GBps
+OUTPUTSIZE: 1400000 INPUTSIZE: 2240000 #/line: 5 stride: 8 std: 0.0008 pack_bandwidth: 11.7672588 GBps
+OUTPUTSIZE: 1600000 INPUTSIZE: 2560000 #/line: 5 stride: 8 std: 0.0009 pack_bandwidth: 11.8520733 GBps
+OUTPUTSIZE: 1800000 INPUTSIZE: 2880000 #/line: 5 stride: 8 std: 0.0010 pack_bandwidth: 11.9141535 GBps
+OUTPUTSIZE: 2000000 INPUTSIZE: 3200000 #/line: 5 stride: 8 std: 0.0012 pack_bandwidth: 11.7201851 GBps
+OUTPUTSIZE: 2200000 INPUTSIZE: 3520000 #/line: 5 stride: 8 std: 0.0013 pack_bandwidth: 11.7103998 GBps
+OUTPUTSIZE: 2400000 INPUTSIZE: 3840000 #/line: 5 stride: 8 std: 0.0014 pack_bandwidth: 11.7361346 GBps
+OUTPUTSIZE: 2600000 INPUTSIZE: 4160000 #/line: 5 stride: 8 std: 0.0015 pack_bandwidth: 11.6358123 GBps
+OUTPUTSIZE: 2800000 INPUTSIZE: 4480000 #/line: 5 stride: 8 std: 0.0017 pack_bandwidth: 11.5020496 GBps
+OUTPUTSIZE: 240000 INPUTSIZE: 320000 #/line: 6 stride: 8 std: 0.0002 pack_bandwidth: 10.5585093 GBps
+OUTPUTSIZE: 480000 INPUTSIZE: 640000 #/line: 6 stride: 8 std: 0.0003 pack_bandwidth: 11.0012653 GBps
+OUTPUTSIZE: 720000 INPUTSIZE: 960000 #/line: 6 stride: 8 std: 0.0004 pack_bandwidth: 11.7059383 GBps
+OUTPUTSIZE: 960000 INPUTSIZE: 1280000 #/line: 6 stride: 8 std: 0.0005 pack_bandwidth: 11.8492437 GBps
+OUTPUTSIZE: 1200000 INPUTSIZE: 1600000 #/line: 6 stride: 8 std: 0.0008 pack_bandwidth: 11.4196002 GBps
+OUTPUTSIZE: 1440000 INPUTSIZE: 1920000 #/line: 6 stride: 8 std: 0.0009 pack_bandwidth: 11.7256576 GBps
+OUTPUTSIZE: 1680000 INPUTSIZE: 2240000 #/line: 6 stride: 8 std: 0.0010 pack_bandwidth: 11.8039866 GBps
+OUTPUTSIZE: 1920000 INPUTSIZE: 2560000 #/line: 6 stride: 8 std: 0.0010 pack_bandwidth: 12.0885068 GBps
+OUTPUTSIZE: 2160000 INPUTSIZE: 2880000 #/line: 6 stride: 8 std: 0.0011 pack_bandwidth: 12.0690948 GBps
+OUTPUTSIZE: 2400000 INPUTSIZE: 3200000 #/line: 6 stride: 8 std: 0.0013 pack_bandwidth: 11.8258219 GBps
+OUTPUTSIZE: 2640000 INPUTSIZE: 3520000 #/line: 6 stride: 8 std: 0.0015 pack_bandwidth: 11.7548836 GBps
+OUTPUTSIZE: 2880000 INPUTSIZE: 3840000 #/line: 6 stride: 8 std: 0.0016 pack_bandwidth: 11.1388460 GBps
+OUTPUTSIZE: 3120000 INPUTSIZE: 4160000 #/line: 6 stride: 8 std: 0.0016 pack_bandwidth: 9.8895828 GBps
+OUTPUTSIZE: 3360000 INPUTSIZE: 4480000 #/line: 6 stride: 8 std: 0.0018 pack_bandwidth: 9.3462359 GBps
+OUTPUTSIZE: 280000 INPUTSIZE: 320000 #/line: 7 stride: 8 std: 0.0003 pack_bandwidth: 10.6114546 GBps
+OUTPUTSIZE: 560000 INPUTSIZE: 640000 #/line: 7 stride: 8 std: 0.0004 pack_bandwidth: 11.2907732 GBps
+OUTPUTSIZE: 840000 INPUTSIZE: 960000 #/line: 7 stride: 8 std: 0.0005 pack_bandwidth: 11.5559529 GBps
+OUTPUTSIZE: 1120000 INPUTSIZE: 1280000 #/line: 7 stride: 8 std: 0.0006 pack_bandwidth: 12.0620645 GBps
+OUTPUTSIZE: 1400000 INPUTSIZE: 1600000 #/line: 7 stride: 8 std: 0.0008 pack_bandwidth: 11.7677936 GBps
+OUTPUTSIZE: 1680000 INPUTSIZE: 1920000 #/line: 7 stride: 8 std: 0.0009 pack_bandwidth: 12.0388150 GBps
+OUTPUTSIZE: 1960000 INPUTSIZE: 2240000 #/line: 7 stride: 8 std: 0.0011 pack_bandwidth: 11.9355313 GBps
+OUTPUTSIZE: 2240000 INPUTSIZE: 2560000 #/line: 7 stride: 8 std: 0.0011 pack_bandwidth: 11.9628917 GBps
+OUTPUTSIZE: 2520000 INPUTSIZE: 2880000 #/line: 7 stride: 8 std: 0.0013 pack_bandwidth: 12.0059362 GBps
+OUTPUTSIZE: 2800000 INPUTSIZE: 3200000 #/line: 7 stride: 8 std: 0.0016 pack_bandwidth: 11.7002948 GBps
+OUTPUTSIZE: 3080000 INPUTSIZE: 3520000 #/line: 7 stride: 8 std: 0.0016 pack_bandwidth: 10.5840348 GBps
+OUTPUTSIZE: 3360000 INPUTSIZE: 3840000 #/line: 7 stride: 8 std: 0.0017 pack_bandwidth: 9.5615014 GBps
+OUTPUTSIZE: 3640000 INPUTSIZE: 4160000 #/line: 7 stride: 8 std: 0.0018 pack_bandwidth: 8.6761079 GBps
+OUTPUTSIZE: 3920000 INPUTSIZE: 4480000 #/line: 7 stride: 8 std: 0.0020 pack_bandwidth: 8.1678545 GBps
+OUTPUTSIZE: 320000 INPUTSIZE: 320000 #/line: 8 stride: 8 std: 0.0003 pack_bandwidth: 10.5990612 GBps
+OUTPUTSIZE: 640000 INPUTSIZE: 640000 #/line: 8 stride: 8 std: 0.0005 pack_bandwidth: 10.8887819 GBps
+OUTPUTSIZE: 960000 INPUTSIZE: 960000 #/line: 8 stride: 8 std: 0.0005 pack_bandwidth: 11.8704957 GBps
+OUTPUTSIZE: 1280000 INPUTSIZE: 1280000 #/line: 8 stride: 8 std: 0.0007 pack_bandwidth: 11.8746483 GBps
+OUTPUTSIZE: 1600000 INPUTSIZE: 1600000 #/line: 8 stride: 8 std: 0.0009 pack_bandwidth: 11.8843047 GBps
+OUTPUTSIZE: 1920000 INPUTSIZE: 1920000 #/line: 8 stride: 8 std: 0.0011 pack_bandwidth: 11.8890436 GBps
+OUTPUTSIZE: 2240000 INPUTSIZE: 2240000 #/line: 8 stride: 8 std: 0.0011 pack_bandwidth: 12.0842068 GBps
+OUTPUTSIZE: 2560000 INPUTSIZE: 2560000 #/line: 8 stride: 8 std: 0.0013 pack_bandwidth: 11.8121411 GBps
+OUTPUTSIZE: 2880000 INPUTSIZE: 2880000 #/line: 8 stride: 8 std: 0.0015 pack_bandwidth: 11.2897597 GBps
+OUTPUTSIZE: 3200000 INPUTSIZE: 3200000 #/line: 8 stride: 8 std: 0.0016 pack_bandwidth: 9.8842357 GBps
+OUTPUTSIZE: 3520000 INPUTSIZE: 3520000 #/line: 8 stride: 8 std: 0.0017 pack_bandwidth: 9.0445709 GBps
+OUTPUTSIZE: 3840000 INPUTSIZE: 3840000 #/line: 8 stride: 8 std: 0.0018 pack_bandwidth: 8.4243462 GBps
+OUTPUTSIZE: 4160000 INPUTSIZE: 4160000 #/line: 8 stride: 8 std: 0.0019 pack_bandwidth: 8.0779741 GBps
+OUTPUTSIZE: 4480000 INPUTSIZE: 4480000 #/line: 8 stride: 8 std: 0.0021 pack_bandwidth: 7.8127759 GBps

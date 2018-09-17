@@ -19,33 +19,34 @@ inline void _memcpy(void *dest, const void *src, size_t n){
 void do_memcpy(const int OUTPUTSIZE, const int INPUTSIZE){
 	unsigned int rep;
 	double avg = 0;
+	double result[20];
 
-	for(rep = 0; rep < 21; rep++){
-		double *inbuf = (double*)malloc(sizeof(double) * INPUTSIZE);
-		unsigned int i, j;
-		for( i = 0; i < INPUTSIZE; i++ )
-			inbuf[i] = (double)(rand() % 200);
-		double *packed = (double*)malloc(sizeof(double) * OUTPUTSIZE);
-		double st, et;
+	double *inbuf = (double*)malloc(sizeof(double) * INPUTSIZE);
+	unsigned int i, j;
+	for( i = 0; i < INPUTSIZE; i++ )
+		inbuf[i] = (double)(rand() % 200);
+	double *packed = (double*)malloc(sizeof(double) * OUTPUTSIZE);
+	double st, et;
 
+	for( rep = 0; rep < 20; rep++){
 		st = MPI_Wtime();
 		j = 0; i = 0;
 		for( ; i < OUTPUTSIZE && j < INPUTSIZE; i+=6){
-			_memcpy(&packed[i], &inbuf[j], sizeof(double));
-			_memcpy(&packed[i+1], &inbuf[j+1], sizeof(double));
-			_memcpy(&packed[i+2], &inbuf[j+2], sizeof(double));
-			_memcpy(&packed[i+3], &inbuf[j+3], sizeof(double));
-			_memcpy(&packed[i+4], &inbuf[j+4], sizeof(double));
-			_memcpy(&packed[i+5], &inbuf[j+5], sizeof(double));
+			memcpy(&packed[i], &inbuf[j], sizeof(double));
+			memcpy(&packed[i+1], &inbuf[j+1], sizeof(double));
+			memcpy(&packed[i+2], &inbuf[j+2], sizeof(double));
+			memcpy(&packed[i+3], &inbuf[j+3], sizeof(double));
+			memcpy(&packed[i+4], &inbuf[j+4], sizeof(double));
+			memcpy(&packed[i+5], &inbuf[j+5], sizeof(double));
 			j+=8;
 		}
 		et = MPI_Wtime();
-
-		if(rep != 0)
-			avg += et - st;
-		free(inbuf);
-		free(packed);
+		avg += et - st;
+		result[rep] = et - st;
 	}
+
+	free(inbuf);
+	free(packed);
 
 	avg/=20.;
 	printf("%d %d %.7f GBps\n",
