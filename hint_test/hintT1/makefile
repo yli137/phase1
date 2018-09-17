@@ -3,7 +3,7 @@ CC=mpicc
 all: 1hintT0 2hintT0 3hintT0 4hintT0 5hintT0 6hintT0 7hintT0 8hintT0
 
 1hintT0: 1hintT0.c
-	$(CC) -o 1hintT0 -O3 1hintT0.c
+	$(CC) -o 1hintT0 -S -O3 1hintT0.c
 
 2hintT0: 2hintT0.c
 	$(CC) -o 2hintT0 -O3 2hintT0.c
