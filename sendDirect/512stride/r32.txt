@@ -1,0 +1,12 @@
+num_element: 	1 	chunk_size: 	32 Datatype: 0.000254 std: 0.000001 Direct: 0.001965 std: 0.000001
+num_element: 	2 	chunk_size: 	32 Datatype: 0.000289 std: 0.000001 Direct: 0.002010 std: 0.000004
+num_element: 	4 	chunk_size: 	32 Datatype: 0.000343 std: 0.000002 Direct: 0.002093 std: 0.000003
+num_element: 	8 	chunk_size: 	32 Datatype: 0.000372 std: 0.000003 Direct: 0.002582 std: 0.000000
+num_element: 	16 	chunk_size: 	32 Datatype: 0.000430 std: 0.000001 Direct: 0.002831 std: 0.000003
+num_element: 	32 	chunk_size: 	32 Datatype: 0.000519 std: 0.000001 Direct: 0.003069 std: 0.000000
+num_element: 	64 	chunk_size: 	32 Datatype: 0.000704 std: 0.000001 Direct: 0.005259 std: 0.000013
+num_element: 	128 	chunk_size: 	32 Datatype: 0.001071 std: 0.000000 Direct: 0.008160 std: 0.000009
+num_element: 	256 	chunk_size: 	32 Datatype: 0.001803 std: 0.000001 Direct: 0.014434 std: 0.000036
+num_element: 	512 	chunk_size: 	32 Datatype: 0.012268 std: 0.000029 Direct: 0.027107 std: 0.000005
+num_element: 	1024 	chunk_size: 	32 Datatype: 0.022914 std: 0.000029 Direct: 0.053401 std: 0.000228
+num_element: 	2048 	chunk_size: 	32 Datatype: 0.041406 std: 0.000005 Direct: 0.103098 std: 0.000019

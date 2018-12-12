@@ -1,0 +1,7 @@
+direct local copy in 0.066 microsec std: 0.0000
+direct local copy in 0.079 microsec std: 0.0000
+direct local copy in 0.197 microsec std: 0.0000
+direct local copy in 0.326 microsec std: 0.0000
+direct local copy in 0.917 microsec std: 0.0000
+direct local copy in 3.396 microsec std: 0.0000
+direct local copy in 6.758 microsec std: 0.0000
