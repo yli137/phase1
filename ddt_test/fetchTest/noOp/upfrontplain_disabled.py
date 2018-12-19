@@ -31,11 +31,9 @@ ax3.set_title("prefetch to cache level 3 and higher")
 ax3.set_ylabel("cycles")
 #ax4.set_ylabel("cycles")
 
-'''
-ax2.set_ylim([25, med*5])
-ax3.set_ylim([25, med*5])
-ax4.set_ylim([25, med*5])
-'''
+ax2.set_ylim([0, 1000])
+ax3.set_ylim([0, 1000])
+
 fig.subplots_adjust(hspace=.3)
 fig.suptitle('prefetch upfront plain hardware prefetch disabled 2nd try')
 
@@ -49,28 +47,21 @@ xt2 = np.array(t2[:20000])
 yt1 = fft(xt1)
 yt2 = fft(xt2)
 
-'''
+
 for i in range(yt1.size):
-    if yt1[i] < 100000:
+    if abs(yt1[i]) < 1000:
         yt1[i] = 0
-    if yt2[i] < 100000:
+    if abs(yt2[i]) < 1000:
         yt2[i] = 0
 
 yt1inv = ifft(yt1)
 yt2inv = ifft(yt2)
-'''
 
-ax5.plot(yt1/20000)
-ax6.plot(yt2/20000)
+print(max(xt1))
+ax5.plot(yt1inv)
+ax6.plot(yt2inv)
 
-for i in range(t1.size):
-    if t1[i] > 100:
-        print(i, t1[i])
-
-print()
-
-for i in range(t2.size):
-    if t2[i] > 70:
-        print(i, t2[i])
+print(yt1)
+print(yt2)
 
 plt.show()
